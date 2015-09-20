@@ -1,0 +1,8 @@
+Package: com.imokhles.callreply
+Name: CallReply
+Depends: mobilesubstrate, firmware (>= 8.0), applist, com.rpetrich.rocketbootstrap
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Answer/Decline calls without leaving the current app
+Author: iMokhles <mokhleshussien@aol.com>
+Section: Tweaks
